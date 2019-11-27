@@ -10,6 +10,7 @@ jupyterlab = "*"
 numpy = "*"
 matplotlib = "*"
 ipywidgets = "*"
+nbinteract = "*"
 
 [requires]
 python_version = "3.6"
